@@ -20,12 +20,11 @@
 
 ## Features
 
-  #### Base de dados
     ✔️ Conhecer as novas atualizações do React 18
     ✔️ Criar componentes
     ✔️ Criar classe no JSX - className
-    ✔️ Entedner Template Expression - javascript dentro do JSX
-    ✔️ Evento de click no componente - handleClick
+    ✔️ Entender Template Expression - javascript dentro do JSX
+    ✔️ Eventos no React
     ✔️ Importação de imagem no projeto
     ✔️ Entender Hooks (useState e useEffect)
 
